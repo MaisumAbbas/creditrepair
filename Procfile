@@ -1,0 +1,1 @@
+web: gunicorn creditrepair.wsgi:application --log-file -
